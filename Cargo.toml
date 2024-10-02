@@ -121,6 +121,5 @@ version = "0.25"
 optional = true
 
 [dependencies.ffmpeg-sys-next]
-git = "https://github.com/JonnyBurger/rust-ffmpeg-sys-upstream"
-rev = "b9c9896d0a4cf1db58d32018fcb380e7a807008d"
+version = "7.1.0"
 default-features = false
